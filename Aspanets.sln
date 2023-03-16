@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspanets", "Aspanets\Aspanets.csproj", "{B03C31EE-238A-42A0-9736-756938ED2AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03C31EE-238A-42A0-9736-756938ED2AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03C31EE-238A-42A0-9736-756938ED2AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03C31EE-238A-42A0-9736-756938ED2AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03C31EE-238A-42A0-9736-756938ED2AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408BE7EF-F708-4A50-AE8D-943687ECAB1D}
+	EndGlobalSection
+EndGlobal
